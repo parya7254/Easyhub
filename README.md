@@ -7,3 +7,15 @@ The reason for making this project is to learn about making your own USB hubs an
 # PCB and Schematic
 <img width="806" height="576" alt="image" src="https://github.com/user-attachments/assets/41df90fa-c2a3-464f-91de-2d5d78899311" />
 <img width="838" height="442" alt="image" src="https://github.com/user-attachments/assets/4813407f-a46f-4bcc-8250-4f86db62a482" />
+
+# BOM
+ 
+ |Item|Price (total)|Link|
+ |----|-------------|----|
+ |SL2.1A|$4.13|https://www.lcsc.com/product-detail/C6798314.html|
+ |AM90|$0.67|https://www.lcsc.com/product-detail/C404965.html|
+ |AF SS-JB17.6|$2.60|https://www.lcsc.com/product-detail/C456021.html|
+ |USB-231-ARY|$1.63|https://www.lcsc.com/product-detail/C720525.html|
+ |CL10A106KP8NNNC|$0.65|https://www.lcsc.com/product-detail/C19702.html|
+ |NSR0320MW2T1G|$0.63|https://www.lcsc.com/product-detail/C48192.html|
+ 
