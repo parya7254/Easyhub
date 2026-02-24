@@ -4,6 +4,9 @@ The reason for making this project is to learn about making your own USB hubs an
 
 <img width="7022" height="4510" alt="image" src="https://github.com/user-attachments/assets/56b33783-fca5-4d7c-8963-9184a738991f" />
 
+# How in the world did I make this?
+I did a lot of reasearch on Google and learned about the basics of the SL2.1A chip and USB hubs. Then I created a new project in EasyEDA and designed the PCB and schematic while also learning some more from a Hack Club Jam found over here: https://jams.hackclub.com/batch/usb-hub I then decided later on that I want to daisy chain the USB hub ICs to bring the total USB ports to 10. Before doing that, I picked out my parts and decided that I will use stacked USB ports in the front and then single ports for the sides.
+
 # Why in the world did I make this??
 Soo, many laptops have ONLY 2 USB ports, but, this is not even close to enough for some people who need a lot of things connected to their computer at once. And anyways, who would want to repeatedly unplug stuff again and again everytime you need to use something and all of your laptop's USB ports are used (this can also damage your usb port)? I can tell you for sure that I would not want to. So I decided to make my USB hub, Easyhub (it makes connecting lots of devices to your laptop easier), it converts 1 USB port on your laptop (or computer) into a whopping 10 (this can be useful if you need to connect a lot of arduinos/esp32s'/etc at once)!
 
