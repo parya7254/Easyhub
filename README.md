@@ -21,6 +21,7 @@ To use this, you simply just need to plug it into a computer's USB port and it c
  
  |Item|Price (total)|Link|
  |----|-------------|----|
+ |PCB|About $7-8|https://cart.jlcpcb.com/quote?fileId=f327be23290643268b9ae7cbddffad56&uuid=ab4550dda2054a1997925bf89ab01989&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro|
  |SL2.1A|$4.13|https://www.lcsc.com/product-detail/C6798314.html|
  |AM90|$0.67|https://www.lcsc.com/product-detail/C404965.html|
  |AF SS-JB17.6|$2.60|https://www.lcsc.com/product-detail/C456021.html|
