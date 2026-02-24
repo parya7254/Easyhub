@@ -4,11 +4,17 @@ The reason for making this project is to learn about making your own USB hubs an
 
 <img width="7022" height="4510" alt="image" src="https://github.com/user-attachments/assets/56b33783-fca5-4d7c-8963-9184a738991f" />
 
+# Why in the world did I make this??
+Soo, many laptops have ONLY 2 USB ports, but, this is not even close to enough for some people who need a lot of things connected to their computer at once. And anyways, who would want to repeatedly unplug stuff again and again everytime you need to use something and all of your laptop's USB ports are used (this can also damage your usb port)? I can tell you for sure that I would not want to. So I decided to make my USB hub, Easyhub (it makes connecting lots of devices to your laptop easier), it converts 1 USB port on your laptop (or computer) into a whopping 10 (this can be useful if you need to connect a lot of arduinos/esp32s'/etc at once)!
+
+# How can this majestic device be used??
+To use this, you simply just need to plug it into a computer's USB port and it converts that port into a whopping 10 ports! This can be great to connect many small devices into your computer (keyboards, mice, pheripherals) but, even if you connect it into a USB 3.0 port you will get USB 2.0 ports and if you have one of those billion dollar 1TB flash drives laying around, I would recommend plugging it directly into your computer's port unless you want reduced speeds.
+
 # PCB and Schematic
 <img width="806" height="576" alt="image" src="https://github.com/user-attachments/assets/41df90fa-c2a3-464f-91de-2d5d78899311" />
 <img width="838" height="442" alt="image" src="https://github.com/user-attachments/assets/4813407f-a46f-4bcc-8250-4f86db62a482" />
 
-# BOM
+# BOM (Also available in bom.csv)
  
  |Item|Price (total)|Link|
  |----|-------------|----|
