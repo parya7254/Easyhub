@@ -2,8 +2,7 @@
 A USB 2.0 hub which converts 1 USB input to 10 USB outputs! Speeds might not be the fastest, but great for connecting lots of accessories to your computer!
 The reason for making this project is to learn about making your own USB hubs and using the ICs needed to do this. I also want to make my own solution to a problem of not having enough USB ports on my conputer. While anyone could just buy a USB hub, I chose to make my own so that I can expand my knowledge about electronics. Hack Club's Blueprint Program has enabled me to do something ever since I became extremely intrersted in electronics since I was 10 years old, make my own PCB and get the nesessary funding to do it.
 
-<img width="7022" height="4510" alt="image" src="https://github.com/user-attachments/assets/519a6cd8-fb56-47c5-b68a-08852c693506" />
-
+<img width="7022" height="4510" alt="image" src="https://github.com/user-attachments/assets/84b2f94c-ea5b-4ded-9445-fd7c874a8350" />
 
 # How in the world did I make this?
 I did a lot of reasearch on Google and learned about the basics of the SL2.1A chip and USB hubs. Then I created a new project in EasyEDA and designed the PCB and schematic while also learning some more from a Hack Club Jam found over here: https://jams.hackclub.com/batch/usb-hub I then decided later on that I want to daisy chain the USB hub ICs to bring the total USB ports to 10. Before doing that, I picked out my parts and decided that I will use stacked USB ports in the front and then single ports for the sides.
